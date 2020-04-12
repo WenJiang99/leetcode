@@ -1,18 +1,21 @@
 ---
-title: [String]最长公前缀
+title: Leetcode#String 最长公前缀
 link: https://leetcode-cn.com/problems/longest-common-prefix/
 date: 2020-04-12 11:00:00
 categories:
-- [Leetcode,String]
-- [刷题,Javascript]
-- [Javascript,String]
+- Leetcode#String
+- 刷题#Javascript
+- Javascript#String
 
 tags: 
-- Leetcode#String
-- 简单题
+- Leetcode#简单题
   
 summary: Leetcode#编写一个函数查找字符串数组中的最长的公共前缀
 ---
+
+## 题目
+
+[Leetcode-题目链接](https://leetcode-cn.com/problems/longest-common-prefix/)
 
 ## 解法1 68ms 36.7MB
 
