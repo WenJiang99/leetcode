@@ -1,6 +1,6 @@
 ---
 title: Leetcode#String 有效括号
-date: 
+date: 2020-04-14 16:00:00
 summary: 外观数列
 tags: 
 - Leetcode#简单题
@@ -10,6 +10,7 @@ categories:
 - Javascript#String
 
 link: https://leetcode-cn.com/problems/count-and-say/
+mathjax: true
 ---
 
 ## 题目
@@ -226,3 +227,7 @@ public class Solution {
 }
 
 ```
+
+当然了，惊讶归惊讶，我还是更愿意相信这几个解法的作者，其实已经用了其他方法来解决了的，上面的枚举法或许只是一个小玩笑。
+
+又或者，真有神人手算出结果还算对了的话，我是真佩服了...
