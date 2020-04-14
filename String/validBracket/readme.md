@@ -15,6 +15,7 @@ link: https://leetcode-cn.com/problems/valid-parentheses/
 ## 题目
 
 [LeetCode-题目链接](https://leetcode-cn.com/problems/valid-parentheses/)
+[Github-链接](https://github.com/WenJiang99/leetcode/tree/master/String/validBracket)
 
 ![](./problem.png)
 
