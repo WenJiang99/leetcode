@@ -1,5 +1,5 @@
 ---
-title: Leetcode#String 有效括号
+title: Leetcode#String 外观数列
 date: 2020-04-14 16:00:00
 summary: 外观数列
 tags: 

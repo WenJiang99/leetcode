@@ -1,5 +1,5 @@
 ---
-title: Leetcode#String 在字符串中查找字串，返回第一个字串的开始的索引
+title: Leetcode#String 在字符串中查找字串
 date: 2020-04-13 15:00:00 
 summary: 在字符串中查找字串开始的索引
 tags:

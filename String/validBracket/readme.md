@@ -1,6 +1,6 @@
 ---
 title: Leetcode#String 有效括号
-date: 
+date: 2020-04-13 15:00:00
 summary: 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
 tags: 
 - Leetcode#简单题
