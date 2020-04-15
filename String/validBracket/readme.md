@@ -2,12 +2,16 @@
 title: Leetcode#String 有效括号
 date: 2020-04-13 15:00:00
 summary: 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
-tags: 
-- Leetcode#简单题
-categories:
+catagories: 
+- 刷题#Javascript 
+- Leetcode#Javascript 
 - Leetcode#String
-- 刷题#Javascript
 - Javascript#String
+
+tags: 
+- Leetcode#刷题 
+- Leetcode#简单题
+- String#简单题
 
 link: https://leetcode-cn.com/problems/valid-parentheses/
 ---

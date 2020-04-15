@@ -2,12 +2,16 @@
 title: Leetcode#String 在字符串中查找字串
 date: 2020-04-13 15:00:00 
 summary: 在字符串中查找字串开始的索引
-tags:
-- Leetcode#简单题
-categories:
+catagories: 
+- 刷题#Javascript 
+- Leetcode#Javascript 
 - Leetcode#String
-- 刷题#Javascript
 - Javascript#String
+
+tags: 
+- Leetcode#刷题 
+- Leetcode#简单题
+- String#简单题
 
 ---
 
@@ -16,6 +20,7 @@ categories:
 [Leetcode-题目链接](https://leetcode-cn.com/problems/implement-strstr/)
 
 ![](./problem.png)
+![](https://raw.githubusercontent.com/WenJiang99/leetcode/master/String/strStr/problem.png)
 
 ## 作弊解法 ES6 String.prototype.indexOf
 ```js
