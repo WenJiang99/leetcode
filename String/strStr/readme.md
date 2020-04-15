@@ -20,6 +20,7 @@ tags:
 [Leetcode-题目链接](https://leetcode-cn.com/problems/implement-strstr/)
 
 ![](./problem.png)
+
 ![](https://raw.githubusercontent.com/WenJiang99/leetcode/master/String/strStr/problem.png)
 
 ## 作弊解法 ES6 String.prototype.indexOf

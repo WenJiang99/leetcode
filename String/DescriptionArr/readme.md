@@ -20,7 +20,7 @@ mathjax: true
 
 ![](./problem.png)
 
-![](https://raw.githubusercontent.com/WenJiang99/leetcode/master/String/descriptionArr/problem.png)
+![](https://raw.githubusercontent.com/WenJiang99/leetcode/master/String/DescriptionArr/problem.png)
 
 ## 解法1 正则表达式解法
 

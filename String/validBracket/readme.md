@@ -23,6 +23,8 @@ link: https://leetcode-cn.com/problems/valid-parentheses/
 
 ![](./problem.png)
 
+![](https://raw.githubusercontent.com/WenJiang99/leetcode/master/String/validBracket/problem.png)
+
 
 ## 解法1 数组模拟堆栈 64ms 33.7MB
 
