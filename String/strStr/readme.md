@@ -3,15 +3,11 @@ title: Leetcode#String 在字符串中查找字串
 date: 2020-04-13 15:00:00 
 summary: 在字符串中查找字串开始的索引
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Leetcode#String
-- Javascript#String
+- leetcode
 
 tags: 
-- Leetcode#刷题 
-- Leetcode#简单题
-- String#简单题
+- string
+- easy
 
 ---
 

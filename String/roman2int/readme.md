@@ -1,12 +1,11 @@
 ---
-title: Leetcode#String 罗马数字转换成整数
+title: Leetcode 罗马数字转换成整数
 categories:
-- Leetcode#String
-- 刷题#Javascript
-- Javascript#String
+- leetcode
 
 tags: 
-- Leetcode#简单题
+- string
+- easy
 
 link: https://leetcode-cn.com/problems/roman-to-integer/
 summary: LeetCode#给定罗马数字将其转换成整数

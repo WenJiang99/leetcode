@@ -1,13 +1,13 @@
 ---
-title: Leetcode#String 外观数列
+title: Leetcode 外观数列
 date: 2020-04-14 16:00:00
 summary: 外观数列
-tags: 
-- Leetcode#简单题
 categories:
-- Leetcode#String
-- 刷题#Javascript
-- Javascript#String
+- leetcode
+
+tags: 
+- string
+- easy
 
 link: https://leetcode-cn.com/problems/count-and-say/
 mathjax: true

@@ -1,16 +1,12 @@
 ---
-title: Leetcode#String 最后一个单词的长度
+title: Leetcode 最后一个单词的长度
 date: 2020-04-15 18:03:37 
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Leetcode#String
-- Javascript#String
+- leetcode
 
 tags: 
-- Leetcode#刷题 
-- Leetcode#简单题
-- String#简单题
+- string
+- easy
 
 summary: 找出给定字符串中的最后一个单词的长度
 link: https://leetcode-cn.com/problems/length-of-last-word/

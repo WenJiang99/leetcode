@@ -1,16 +1,12 @@
 ---
-title: Leetcode#String 反转字符串中的单词
+title: Leetcode 反转字符串中的单词
 date: 2020-04-15 19:10:23 
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Javascript#String
-- Leetcode#String
+- leetcodd
 
 tags: 
-- Leetcode#刷题 
-- Leetcode#中等题
-- String#中等题
+- string
+- medium
 
 summary: 反转字符串中的单词顺序
 link: https://leetcode-cn.com/problems/reverse-words-in-a-string/submissions/

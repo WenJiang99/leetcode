@@ -1,16 +1,12 @@
 ---
-title: Leetcode#String 赎金信
+title: Leetcode 赎金信
 date: 2020-04-18 00:01:39 
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Leetcode#String 
-- Javascript#String 
+- leetcode
 
 tags: 
-- Leetcode#刷题 
-- Leetcode#简单题
-- String#简单题
+- string
+- easy
 
 summary: 判断一个字符串是否可以由另外一个字符串的字符构成
 author: wenjiang

@@ -1,16 +1,12 @@
 ---
-title: Leetcode#String 验证回文字符串
+title: Leetcode 验证回文字符串
 date: 2020-04-17 22:55:46 
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Leetcode#String 
-- Javascript#String 
+- leetcode
 
 tags: 
-- Leetcode#刷题 
-- Leetcode#简单题
-- String#简单题
+- string
+- easy
 
 summary: 验证回文字符串
 author: wenjiang

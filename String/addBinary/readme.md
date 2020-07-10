@@ -1,16 +1,12 @@
 ---
-title: Leetcode#String 二进制求和
+title: Leetcode 二进制求和
 date: 2020-04-16 20:26:15 
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Leetcode#String 
-- Javascript#String 
+- leetcode
 
 tags: 
-- Leetcode#刷题 
-- Leetcode#简单题
-- String#简单题
+- string
+- easy
 
 summary: 给定二进制字符串求出其和
 link: https://leetcode-cn.com/problems/add-binary/

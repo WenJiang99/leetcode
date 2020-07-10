@@ -1,15 +1,12 @@
 ---
-title: Leetcode#String 无重复字符的最长字串
+title: Leetcode 无重复字符的最长字串
 date: 2020-04-21 17:32:55 
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Leetcode#String 
-- Javascript#String 
+- leetcode
 
 tags: 
-- Leetcode#刷题 
-- String#中等题
+- string
+- easy
 
 
 summary: 找出给定字符串中不含有重复字符的 最长子串 的长度

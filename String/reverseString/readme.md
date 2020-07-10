@@ -2,15 +2,11 @@
 title: Leetcode#String 反转字符串
 date: 2020-04-17 23:18:30 
 catagories: 
-- 刷题#Javascript 
-- Leetcode#Javascript 
-- Leetcode#String 
-- Javascript#String 
+- leetcode
 
 tags: 
-- Leetcode#刷题 
-- Leetcode#简单题
-- String#简单题
+- string
+- easy
 
 summary: 反转字符串
 author: wenjiang
